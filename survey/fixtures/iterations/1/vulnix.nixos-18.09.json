@@ -1,0 +1,26 @@
+[
+ {
+  "name": "binutils-2.30",
+  "pname": "binutils",
+  "version": "2.30",
+  "affected_by": ["CVE-2018-7569"]
+ },
+ {
+  "name": "libtasn1-4.13",
+  "pname": "libtasn1",
+  "version": "4.13",
+  "affected_by": ["CVE-2018-1000654"]
+ },
+ {
+  "name": "ncurses-6.1",
+  "pname": "ncurses",
+  "version": "6.1",
+  "affected_by": ["CVE-2018-10754"]
+ },
+ {
+  "name": "openjpeg-2.3.0",
+  "pname": "openjpeg",
+  "version": "2.3.0",
+  "affected_by": ["CVE-2018-16376"]
+ }
+]
